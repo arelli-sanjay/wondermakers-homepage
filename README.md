@@ -24,6 +24,10 @@ The project focuses on creating a polished, responsive user experience while imp
 * GSAP
 * Vite
 
+### Live Demo
+
+https://wondermakers-homepage.vercel.app/
+
 ### Project Goal
 
 The goal of this project was to recreate the homepage experience of Wonder Makers Digital while developing the interactions and animations independently and maintaining clean, responsive, and maintainable frontend code.
